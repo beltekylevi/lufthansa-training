@@ -1,0 +1,27 @@
+total 1048672
+drwxr-xr-x   2 root root       4096 febr  25 11:05 bin
+drwxr-xr-x   3 root root       4096 márc  19 09:12 boot
+drwxr-xr-x  20 root root       4160 márc  20 09:03 dev
+drwxr-xr-x 140 root root      12288 márc  20 09:04 etc
+drwxr-xr-x   3 root root       4096 febr   9 17:53 home
+lrwxrwxrwx   1 root root         33 márc  12 09:20 initrd.img -> boot/initrd.img-4.18.0-16-generic
+lrwxrwxrwx   1 root root         33 márc  12 09:20 initrd.img.old -> boot/initrd.img-4.18.0-15-generic
+drwxr-xr-x  21 root root       4096 febr  10 17:25 lib
+drwxr-xr-x   2 root root       4096 okt   18 00:23 lib64
+drwx------   2 root root      16384 febr   9 17:49 lost+found
+drwxr-xr-x   3 root root       4096 febr   9 18:03 media
+drwxr-xr-x   2 root root       4096 okt   18 00:23 mnt
+drwxr-xr-x   4 root root       4096 márc  11 14:03 opt
+dr-xr-xr-x 237 root root          0 márc  19 09:11 proc
+drwx------   3 root root       4096 okt   18 00:35 root
+drwxr-xr-x  28 root root        960 márc  20 09:04 run
+drwxr-xr-x   2 root root      12288 márc  11 14:03 sbin
+drwxr-xr-x   4 root root       4096 febr  11 17:38 snap
+drwxr-xr-x   2 root root       4096 okt   18 00:23 srv
+-rw-------   1 root root 1073741824 márc  11 11:45 swapfile
+dr-xr-xr-x  13 root root          0 márc  20 10:11 sys
+drwxrwxrwt  24 root root        640 márc  20 09:20 tmp
+drwxr-xr-x  10 root root       4096 okt   18 00:23 usr
+drwxr-xr-x  14 root root       4096 okt   18 00:37 var
+lrwxrwxrwx   1 root root         30 márc  12 09:20 vmlinuz -> boot/vmlinuz-4.18.0-16-generic
+lrwxrwxrwx   1 root root         30 márc  12 09:20 vmlinuz.old -> boot/vmlinuz-4.18.0-15-generic
