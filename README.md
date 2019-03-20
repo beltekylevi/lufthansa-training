@@ -5,4 +5,4 @@
   - Git branches
 - Java basics
 
-[lufthansa](https://lufthansa.com)
+[Lufthansa](https://lufthansa.com)
