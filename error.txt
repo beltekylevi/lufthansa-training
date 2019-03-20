@@ -1,1 +1,1 @@
-zsh: command not found: mondjviccet
+zsh: command not found: asdfasdf
